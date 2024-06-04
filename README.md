@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guramrit2002" alt="guramrit2002" /></a> </p>
 
-- 🌱 I’m currently learning **Node js and express js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://guramrit2002.github.io/Portfolio/](https://guramrit2002.github.io/Portfolio/)
 
